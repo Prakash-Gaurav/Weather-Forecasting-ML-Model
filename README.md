@@ -113,7 +113,7 @@ streamlit run WeatherAppXGB.py
 
 This project was developed as a group effort by:
 
-- **Prakash Gaurav** – [LinkedIn](www.linkedin.com/in/prakash-gaurav-519164268)
+- **Prakash Gaurav** – [LinkedIn](https://www.linkedin.com/in/prakash-gaurav-519164268/)
 - **Dinesh Sharma** – [LinkedIn](https://www.linkedin.com/in/zarddinesh/)
 - **Rafi Qamar** – [LinkedIn](https://www.linkedin.com/in/rafi-qamar/)
 
